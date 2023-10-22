@@ -15,11 +15,11 @@
 
 ## Directory Structure
 
-dogma/
-├── Dockerfile: Defines the Docker container including the necessary dependencies
-├── docker-compose.yml: Docker Compose configuration file
-├── dogma.py: Script to manage the Docker container and run the application
-
+dogma/  
+├── Dockerfile: Defines the Docker container including the necessary dependencies  
+├── docker-compose.yml: Docker Compose configuration file  
+├── dogma.py: Script to manage the Docker container and run the application  
+  
 ## Getting Started
 
 1. **Clone this repository to your local machine:**
