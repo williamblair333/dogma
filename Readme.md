@@ -30,6 +30,7 @@ dogma/
 2. **Run the script:**
     ```bash
     python dogma.py <container_name> <application_path>
+    python3 dogma.py gpt4all-gpt4all-1 /root/gpt4all/bin/chat
     ```
 ## Notes, Security
 
